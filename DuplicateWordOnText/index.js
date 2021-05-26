@@ -2,7 +2,7 @@ const text = "Hola que tal, soy un programador! y como tal quiero programar como
 function normal(word){
     return word.replace(/,|\.|;|!/g,'')
 }
-function DuplicateWordOnText (txt){
+function duplicateWordOnText (txt){
     // dicionario
     let dic = {};
     
@@ -19,4 +19,4 @@ function DuplicateWordOnText (txt){
     console.log(dic)
 }
 
-DuplicateWordOnText(text)
+duplicateWordOnText(text)
