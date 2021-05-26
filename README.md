@@ -14,14 +14,24 @@ Is a collection of solved programing problems  of hackerArrank
 <h2>
   Get started
 </h2>
+<ul>
+  <li>
+    <code>
+      git clone https://github.com/juanzjck/interviewTechSolvedProblems.git
+    </code>
+  </li>
+    <li>
+    <code>
+      cd problemfolder/
+    </code>
+  </li>
+    <li>
+      <code>
+        node index.js
+      </code>
+  </li>
+</ul>
 
-<code>
-  git clone https://github.com/juanzjck/interviewTechSolvedProblems.git
-</code>
-<code>
-  cd problemfolder/
-</code>
-<code>
-  node index.js
-</code>
+
+
 <h3>Have Fun </h3>
