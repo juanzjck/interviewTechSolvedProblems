@@ -4,4 +4,4 @@
 Is a collection of solved programing problems  of hackerArrank
 
 
-<img src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg">
+<img width="100px" src="https://hrcdn.net/community-frontend/assets/brand/logo-new-white-green-a5cb16e0ae.svg">
